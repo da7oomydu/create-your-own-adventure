@@ -9,3 +9,5 @@ There are two options here:
 
 1. You have an update, and won't read this further;
 2. You are unlucky one, and you better [choose another path](../marshmallow.md);
+
+Well thanks. I have android orio now. So I don't need marshmallow.
